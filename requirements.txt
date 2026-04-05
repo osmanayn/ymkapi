@@ -1,6 +1,0 @@
-fastapi
-uvicorn
-recipe-scrapers
-httpx
-beautifulsoup4
-lxml
